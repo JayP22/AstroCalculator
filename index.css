@@ -1,8 +1,8 @@
+/* what I did in h1 i added the text align so the title would be centered in the middle and all the other code is just to add coloring and ended up adding a border as well */
 h1 {
     text-align: center;
     font-style: 3em;
     color: #ffa4bd;
-    background: ;
     margin: 5% 25%;
     border: 1em;
     border-style: groove;
@@ -15,6 +15,8 @@ h1 {
 html {
     background: #e60099;
     text-align: center;
+    margin: 5% 25%;
+    width: 50%;
 }
 
 button {
@@ -25,9 +27,16 @@ button {
 
 footer {
     color: black;
+    margin: 5% 25%;
+    width: 50%;
 }
 
 form {
     font-size: 1.2em;
     color: #66ff33;
+}
+/* what I did here for img I just added margin to make the img centered in the middle by adding 5% and 25% and both sides of the picture */
+img {
+    margin: 5% 25%;
+    width: 50%;
 }
