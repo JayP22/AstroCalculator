@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-style: 3em;
+    color: #ffa4bd;
+    background: ;
+    margin: 5% 25%;
+    border: 1em;
+    border-style: groove;
+    border-color: #ff6600;
+    border-width: normal;
+    width: 50%;
+    
+}
+
+html {
+    background: #e60099;
+    text-align: center;
+}
+
+button {
+    font-size: 1.2em;
+    color: #00e6e6;
+    background: #a64dff;
+}
+
+footer {
+    color: black;
+}
+
+form {
+    font-size: 1.2em;
+    color: #66ff33;
+}
